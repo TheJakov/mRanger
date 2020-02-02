@@ -18,7 +18,7 @@ m:bot Ranger uređaj putem Bluetooth-a komunicira sa Android mobilnom aplikacijo
 
 <img alt="Očitavanje temperature" src="https://github.com/krizebcev/mRanger/blob/master/readme_slike/readme_temp.png" width="561" height="507">
 
-### mranger.foi.hr -> Prolog zaključivanje na temelju očitanih temperatura
+### [mranger.foi.hr](https://mranger.foi.hr/) -> Prolog zaključivanje na temelju očitanih temperatura
 
 <img alt="mranger.foi.hr stranica" src="https://github.com/krizebcev/mRanger/blob/master/readme_slike/readme_stranica.png" width="950" height="540">
 
